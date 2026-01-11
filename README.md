@@ -21,8 +21,6 @@ A motivated and technically skilled **Computer Engineer** with a strong foundati
 - 🌍 Based in **Cairo, Egypt**.
 - 💼 **Unity Developer** @ **Genesis Creations**.
 - 🧠 Improving **VR performance**, physics-based interactions, and scalable system architectures.
-- 🤝 Open to collaborating on **Unity-based Games and VR projects**.
-
 ---
 
 ## 🧰 Skills & Tools
@@ -54,7 +52,7 @@ A motivated and technically skilled **Computer Engineer** with a strong foundati
 
 ---
 
-### 🌐 Grapic Design
+### 🌐 Graphic Design
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
