@@ -12,15 +12,14 @@ A motivated and technically skilled **Computer Engineer** with a strong foundati
 
 🕹️ Developed and optimized **VR and interactive projects**, including digital twins and modular gameplay systems.
 
-🧠 Experienced **AI Instructor**, having taught foundational and advanced AI concepts, including neural networks and deep learning, to over 60+ participants.
+🧠 Experienced **AI Instructor**, having taught foundational and advanced AI concepts, including neural networks and deep learning, to over 120+ participants.
 
 ---
 
 ### 📍 Currently
 
 - 🌍 Based in **Cairo, Egypt**.
-- 💼 **Unity Developer** @ **Genesis Creations**.
-- 🧠 Improving **VR performance**, physics-based interactions, and scalable system architectures.
+- 💼 **Mid-Level Unity Developer** @ **Genesis Creations**.
 ---
 
 ## 🧰 Skills & Tools
@@ -66,4 +65,3 @@ A motivated and technically skilled **Computer Engineer** with a strong foundati
 
 - 📧 [mohamedrap22@outlook.com](mailto:mohamedrap22@outlook.com).
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-rabea3/).
-- 🐙 [GitHub](https://github.com/mohamed23232).
