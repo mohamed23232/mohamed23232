@@ -17,9 +17,8 @@ A motivated and technically skilled **Computer Engineer** with a strong foundati
 ---
 
 ### 📍 Currently
-
-- 🌍 Based in **Cairo, Egypt**.
 - 💼 **Mid-Level Unity Developer** @ **Genesis Creations**.
+- 🌍 Based in **Cairo, Egypt**.
 ---
 
 ## 🧰 Skills & Tools
